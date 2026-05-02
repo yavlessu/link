@@ -12,7 +12,7 @@
     "domesticdnsip": "8.8.8.8",
     "geoipurl": "https://cdn.jsdelivr.net/gh/yavlessu/link/geoip",
     "geositeurl": "https://cdn.jsdelivr.net/gh/yavlessu/link/geosite",
-    "lastupdated": "1777616547",
+    "lastupdated": "1777700638",
     "dnshosts": {
         "lkfl2.nalog.ru": "213.24.64.175",
         "lknpd.nalog.ru": "213.24.64.181",
